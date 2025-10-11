@@ -1,0 +1,10 @@
+Windows/
+Binaries/
+Build/
+DerivedDataCach/
+Intermediate/
+Saved/
+*.zip
+*.rar
+Pkg/
+*.ucas
